@@ -4,7 +4,7 @@ BTC-USD price prediction with deep learning algorithm.
 Artificial Neural Networks specifically LSTMs(Long Short Term Memory) RNN algorithm was implimented with pytorch deep learning framework and trained on BTC-USD dataset with data samples dating from 2014 up to 2020.
 
 <h3>Pictorial View of the Test Result</h3>
-...
+<img src="https://user-images.githubusercontent.com/70514310/138338315-55c31302-0a94-4591-a2d4-5f0156c52331.jpg">
 
 <br>
 <h3> Libraries Used </h3>
