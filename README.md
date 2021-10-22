@@ -16,7 +16,7 @@ Artificial Neural Networks specifically LSTMs(Long Short Term Memory) RNN algori
     <li>Matplotlib</li>
     <li>tqdm</li>
     <li>Pytorch Deep Learning Framework</li>
-<ul>
+</ul>
 <br>
 <h3>Install Requirement Files</h3>
 clone the repository or download the 'requirement.txt' files, then open terminal in the working directory and  type <h5>'pip install -r requirements.txt'</h5> to install all the requirements for this project.
